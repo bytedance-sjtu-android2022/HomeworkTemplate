@@ -1,1 +1,1 @@
-# HomeworkTemplate
+# Homework Template
